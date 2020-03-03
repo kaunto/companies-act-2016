@@ -19,28 +19,6 @@
 
      \(b\)  an attachment of a debt is completed by receipt of the debt; and
 
-     \(c\)  an execution against land is completed by sale or, in the case of an equitable interest, by the appointment of a receiver.
-
-x                 
-     x  
-     x                                                 
-     x                 
-     x                                            
-     x                 
-     x           
-     x     x                 
-     x  
-     x                                                 
-     x                 
-     x                                            
-     x                 
-     x           
-     x     x                 
-     x  
-     x                                                 
-     x                 
-     x                                            
-     x                 
-     x           
-     x
+     \(c\)  an execution against land is completed by sale or, in the case of an equitable interest, by the   
+     appointment of a receiver.
 
