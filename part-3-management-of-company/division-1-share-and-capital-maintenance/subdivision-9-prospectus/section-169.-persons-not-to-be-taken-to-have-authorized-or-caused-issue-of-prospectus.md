@@ -4,7 +4,7 @@
 
 (2) For the purposes of [sections 167](section-167.-civil-liability-for-misstatement-in-prospectus.md) and [168](section-168.-criminal-liability-for-misstatement-in-prospectus.md), a person shall not be deemed to have authorized or caused the issuance of a prospectus by reason of—
 
-     (a) his having given a consent as required under [section 160](section-160.-consent-from-person-to-issue-prospectus-containing-his-statement.md); and
+     (a) his having given a consent as required under [section 160](section-160.-consent-from-person-to-issue-prospectus-          containing-his-statement.md); and
 
      (b) his name being included in the prospectus as a trustee for debenture holders, auditor, banker,  
      advocate and solicitor or stock or share broker.
