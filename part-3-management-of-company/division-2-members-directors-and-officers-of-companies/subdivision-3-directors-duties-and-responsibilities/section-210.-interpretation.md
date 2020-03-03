@@ -1,0 +1,4 @@
+# Section 210. Interpretation
+
+For the purposes of this Subdivision, in [sections 213](section-213.-duties-and-responsibilities-of-directors.md), [214](section-214.-business-judgment-rule.md), [215](section-215.-reliance-on-information-provided-by-others.md), [216](section-216.-responsibility-for-actions-of-delegatee.md), [217](section-217.-responsibility-of-a-nominee-director.md), [218](section-218.-prohibition-against-improper-use-of-property-position-etc..md), [223](section-223.-approval-of-company-required-for-disposal-by-directors-of-companys-undertaking-or-pro.md) and [228](section-228.-transactions-with-directors-substantial-shareholders-or-connected-persons.md), in addition to the definition of “director” in [section 2](../../../part-1-preliminary/section-2-interpretation.md), “director” includes chief executive officer, chief financial officer, chief operating officer or any other person primarily responsible for the management of the company.
+
