@@ -95,24 +95,39 @@ _Effects of moratorium_
 
      \(d\)  no application for judicial management order may be made against the company;
 
-     \(e\)  no judicial manager of the company may be appointed under Subdivision 2 of Division 8 of Part III;
+     \(e\)  no judicial manager of the company may be appointed under [Subdivision 2 of Division 8 of Part III](../../../part-3-management-of-company/division-8-corporate-rescue-mechanism/);
 
+     \(f\)  no landlord or other person to whom rent is payable may exercise any right of forfeiture by   
+     peaceable re-entry in relation to premises let to the company in respect of a failure by the company to                                
+     comply with any term or condition of its tenancy of such premises, except with the leave of the Court    
+     and subject to such terms as the Court may impose;      
 
+     \(g\) no other steps may be taken to impose any security over the company’s property, or to repossess                              
+     goods in the company’s possession under any hire-purchase agreement, except with the leave of the                    
+     Court and subject to such terms as the Court may impose;                                                                         
 
-x                             
-     x                             
-     x                             
-     x                             
-     x                             
-     x 
+     \(h\)  no other proceedings and no execution or other legal process may be commenced or continued,              
+     and no distress may be levied, against the company or its property except with the leave of the Court                      
+     and subject to such terms as the Court may impose; and 
 
-          x                    
-          x          
-          x    
-          x              
-          x        
-          x          
-          x    
-          x   
+     \(i\)   no steps shall be taken to transfer any share of the company or to alter the status of any member                    
+     of the company except with the leave of the Court and, where the Court gives leave, subject to such         
+     terms as the Court may impose.
 
+_Company invoices, orders for goods, etc._
+
+18. At a time when a moratorium is in force in relation to a company, the nominee’s name and a statement that a moratorium is in force for the company shall appear on—
+
+     \(a\)  its business letters, notices and other official publications, including in electronic mediums;
+
+     \(b\)  its websites;
+
+     \(c\)  its bills of exchange, promissory notes, endorsements and order forms;
+
+     \(d\)  cheques purporting to be signed by or on behalf of the company;
+
+     \(e\)  orders invoices and other demands for payment, receipts and letter of credit purporting to be                      
+     issued or signed by or on behalf of the company; and
+
+     \(f\)  all other forms of its business correspondence and documentation.
 

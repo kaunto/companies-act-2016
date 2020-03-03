@@ -1,2 +1,4 @@
 # Section 580. As to rights of witnesses to legal representation
 
+Any person summoned for examination under [section 502](../../../part-4-cessation-of-companies/division-1-voluntary-and-compulsory-winding-up/subdivision-9-general-powers-of-court-in-winding-up-by-court/section-502.-power-to-summon-persons-connected-with-company.md) or [503](../../../part-4-cessation-of-companies/division-1-voluntary-and-compulsory-winding-up/subdivision-9-general-powers-of-court-in-winding-up-by-court/section-503.-power-to-order-public-examination-of-promoters-directors-etc..md) may at his own cost appoint an advocate and solicitor who shall be at liberty to put to him such questions as the Court, Sessions Court Judge or Magistrate deems just, for the purpose of enabling him to provide explanation or qualify any answers given by him.
+
