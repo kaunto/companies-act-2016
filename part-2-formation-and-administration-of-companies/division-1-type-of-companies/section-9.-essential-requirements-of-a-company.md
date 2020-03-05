@@ -12,5 +12,3 @@ A company shall have—
 
 
 
-## This is a test
-

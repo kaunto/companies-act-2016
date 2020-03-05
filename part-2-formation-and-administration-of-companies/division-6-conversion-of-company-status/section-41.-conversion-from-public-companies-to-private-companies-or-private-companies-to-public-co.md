@@ -8,7 +8,7 @@
 
      \(b\) a statement in lieu of prospectus; and
 
-     \(c\) a statutory declaration verifying that _paragraph 190\(2\)\(b\)_ has been complied with.
+     \(c\) a statutory declaration verifying that [_paragraph 190\(2\)\(b\)_](../../part-3-management-of-company/division-1-share-and-capital-maintenance/subdivision-11-restrictions-on-allotment-and-commencement-of-business/section-190.-restrictions-on-commencement-of-business-in-certain-circumstances.md) has been complied with.
 
 \(3\) Subject to this Act, upon the lodgement of the notice for conversion, the Registrar shall—
 

@@ -39,7 +39,7 @@ the Registrar shall serve a notice to the company that on such date as specified
 
           \(i\) a statement in lieu of prospectus; and
 
-          \(ii\) a statutory declaration verifying that _paragraph 190\(1\)\(b\)_ has been complied with.
+          \(ii\) a statutory declaration verifying that [_paragraph 190\(1\)\(b\)_](../../part-3-management-of-company/division-1-share-and-capital-maintenance/subdivision-11-restrictions-on-allotment-and-commencement-of-business/section-190.-restrictions-on-commencement-of-business-in-certain-circumstances.md) has been complied with.
 
 \(6\) By virtue of a determination made under this section, a company that has become a public company shall not convert to a private company without the leave of the Court.
 

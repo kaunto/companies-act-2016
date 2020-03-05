@@ -17,18 +17,18 @@ declare the affairs of the company or foreign company to be investigated under t
 
 \(2\) The Minister may make the declaration on his own motion under _subsection \(1\)_ if he is satisfied that—
 
-     \(a\) a _prima facie_ evidence has been established that for the protection of the public, the interest   
+     \(a\) a _prima facie_ evidence has been established that for the protection of the public, the interest  
      holders of a scheme under the Interest Schemes Act 2016, the members or creditors of a company or a   
-     foreign company, an investigation to be carried out under this section;
+     foreign company, an investigation to be carried out under this section; 
 
-     \(b\)  it is in the public interest that allegations of fraud, misfeasance or other misconduct by persons        
+     \(b\) it is in the public interest that allegations of fraud, misfeasance or other misconduct by persons    
      who are or have been concerned with the formation or management of a company or a foreign             
      company be investigated under this section;
 
-     \(c\)  for any other reason it is in the public interest that the affairs of the company or foreign company   
-     be investigated under this section; or
+     \(c\) for any other reason it is in the public interest that the affairs of the company or foreign company be   
+     investigated under this section; or
 
-     \(d\)  in the case of a foreign company, the appropriate authority of another country has requested that a   
+     \(d\) in the case of a foreign company, the appropriate authority of another country has requested that a  
      declaration be made under this section.
 
 \(3\) An application under this section shall be supported by evidence as the Minister requires and the reasons of the applicants in requiring the investigation.
@@ -37,16 +37,16 @@ declare the affairs of the company or foreign company to be investigated under t
 
 \(5\) On or after the commencement of an investigation under this section until the expiration of three months after a final report is presented to the Minister as to the findings of the investigation, no proceedings or actions shall be commenced or proceeded in any Court without the consent of the Minister—
 
-     \(a\)  by the company in respect to or in respect of any contract, bill of exchange or promissory note; or
+     \(a\) by the company in respect to or in respect of any contract, bill of exchange or promissory note; or
 
-     \(b\)  by the holder or any other person in respect of any bill of exchange or promissory note made,        
+     \(b\) by the holder or any other person in respect of any bill of exchange or promissory note made,        
      drawn or accepted by or issued, transferred, negotiated or endorsed by or to the company unless at the        
      time of the negotiation, transfer, issue, endorsement or delivery, the holder or other person—
 
           \(i\) has given adequate pecuniary consideration; and
 
-         \(ii\) at any time within three years before, was not a member, officer, agent or employee of the   
-          company or the wife or husband of a member, officer, agent or employee of the company.    
+          \(ii\) at any time within three years before, was not a member, officer, agent or employee of the  
+          company or the wife or husband of a member, officer, agent or employee of the company.
 
 \(6\) For the purposes of this section— 
 
@@ -55,13 +55,13 @@ declare the affairs of the company or foreign company to be investigated under t
      \(a\)  the promotion, formation, membership, control, trading, dealings, business and property of the   
      company;
 
-     \(b\)  the ownership of shares in, debentures of or participatory interests issued by the company;
+     \(b\) the ownership of shares in, debentures of or participatory interests issued by the company;
 
-     \(c\)  the ascertainment of the persons who are or have been financially interested in the success or             
+     \(c\) the ascertainment of the persons who are or have been financially interested in the success or             
      failure or apparent success or failure of the company or are or have been able to control or materially        
      to influence the policy of the company; and
 
-     \(d\)  the circumstances under which a person acquired or disposed of or becomes entitled to acquire or   
+     \(d\) the circumstances under which a person acquired or disposed of or becomes entitled to acquire or   
      dispose of shares in, debentures of or participatory interests issued by the company;
 
 “officer or agent”, in relation to a corporation, includes—
@@ -83,8 +83,8 @@ declare the affairs of the company or foreign company to be investigated under t
           \(iii\) is capable of giving information concerning the promotion, formation, trading, dealings, affairs or                     
           property of the corporation; and
 
-      \(d\) wheretherearereasonablegroundsforsuspectingorbelieving that a person is a person referred to in   
-     _paragraph \(c\)_, that person.
+     \(d\) where there are reasonable grounds for suspecting or believing that a person is a person referred  
+     to in _paragraph \(c\)_, that person.
 
 \(7\) Any person who with intent to defeat the purposes of this section, or to delay or obstruct the carrying out of an investigation under this section—
 
