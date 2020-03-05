@@ -32,9 +32,9 @@
      \(b\) give particulars in the note of the quantified financial effect on the financial statements or  
      consolidated financial statements if the relevant approved accounting standards was complied with.
 
-\(5\) Notwithstanding anything in this Act, if financial statements are required to be prepared for or lodged with the authorities referred to in [section 26d](../../../part-2-formation-and-administration-of-companies/division-4-name-of-company/section-26.-availability-of-name.md) of the Financial Reporting Act 1997, those financial statements shall be prepared in accordance with the approved accounting standards subject to any specifications, guidelines or regulations as may be issued by the authorities.
+\(5\) Notwithstanding anything in this Act, if financial statements are required to be prepared for or lodged with the authorities referred to in section 26D of the Financial Reporting Act 1997, those financial statements shall be prepared in accordance with the approved accounting standards subject to any specifications, guidelines or regulations as may be issued by the authorities.
 
-\(6\) The information in the accounts or consolidated accounts of persons reporting to the authorities as referred to in [section 26d](../../../part-2-formation-and-administration-of-companies/division-4-name-of-company/section-26.-availability-of-name.md) of the Financial Reporting Act 1997 shall be deemed to have complied with the requirements of this Division if the financial statements are made out in accordance with that law.
+\(6\) The information in the accounts or consolidated accounts of persons reporting to the authorities as referred to in section 26D of the Financial Reporting Act 1997 shall be deemed to have complied with the requirements of this Division if the financial statements are made out in accordance with that law.
 
 \(7\) If a conflict or inconsistency arises between the provisions of an applicable approved accounting standard and this Act in their respective applications to the financial statements of a company or consolidated financial statements of a holding company, the provisions of the applicable approved accounting standard shall prevail.
 

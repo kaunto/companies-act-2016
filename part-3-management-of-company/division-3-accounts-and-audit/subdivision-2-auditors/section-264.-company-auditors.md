@@ -43,7 +43,7 @@
      is not registered as a firm under any law for the time being in force, a return showing the full names and  
      addresses of all the partners of the firm has been lodged with the Registrar; and
 
-     \(b\) no partner of the firm is disqualified under subsection \(1\) from acting as the auditor of the  
+     \(b\) no partner of the firm is disqualified under _subsection \(1\)_ from acting as the auditor of the  
      company.
 
 \(5\) A company shall not appoint a person or a firm as an auditor unless prior to the appointment—

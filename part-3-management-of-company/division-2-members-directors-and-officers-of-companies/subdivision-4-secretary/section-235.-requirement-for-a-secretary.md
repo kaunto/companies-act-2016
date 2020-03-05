@@ -14,7 +14,7 @@ who shall ordinarily reside in Malaysia by having a principal place of residence
 
      \(a\) a member of a body as set out in the [Fourth Schedule](../../../part-5-miscellaneous/division-4-saving-and-transitional/section-620.-repeal-and-savings/fourth-schedule.md); or
 
-     \(b\) a person licensed by the Commission under [section 20g](../../../part-2-formation-and-administration-of-companies/division-2-incorporation-and-its-effects/section-20.-separate-legal-entity.md) of the Companies Commission of   
+     \(b\) a person licensed by the Commission under section 20G of the Companies Commission of   
      Malaysia Act 2001.
 
 \(3\) For the purposes of _paragraph \(2\)\(a\)_, the Minister may prescribe any professional body or any other body by notification in the Gazette and may impose any terms and conditions as he thinks fit.

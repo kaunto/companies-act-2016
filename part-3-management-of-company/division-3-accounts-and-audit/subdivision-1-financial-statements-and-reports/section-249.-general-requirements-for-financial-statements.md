@@ -10,7 +10,7 @@
      \(b\) give a true and fair view of the financial performance of the company and all its subsidiaries which  
      are dealt with in the consolidated financial statements as a whole for the financial year.
 
-\(3\) For the purposes of this Division, the Registrar may require additional information as he deems fit apart from the information required by the authorities referred to in [section 26d](../../../part-2-formation-and-administration-of-companies/division-4-name-of-company/section-26.-availability-of-name.md) of the Financial Reporting Act 1997 in the financial statements of persons reporting to such authorities as referred to in [_subsection 244\(6\)_](section-244.-compliance-with-approved-accounting-standards.md).
+\(3\) For the purposes of this Division, the Registrar may require additional information as he deems fit apart from the information required by the authorities referred to in section 26D of the Financial Reporting Act 1997 in the financial statements of persons reporting to such authorities as referred to in [_subsection 244\(6\)_](section-244.-compliance-with-approved-accounting-standards.md).
 
 \(4\) Notwithstanding any relevant provisions of the applicable approved accounting standards, the financial statements shall contain, in the notes to the statements, the information as the Registrar may determine and may include but not limited to the following:
 

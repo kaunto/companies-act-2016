@@ -23,7 +23,7 @@
           \(ii\) in accordance with this Act so as to give a true and fair view of the company’s affairs; and
 
           \(iii\) in accordance with the applicable approved accounting standards, or in the case where financial  
-          statements are required to be prepared for or lodged with the authorities referred to in [section 26d](../../../part-2-formation-and-administration-of-companies/division-4-name-of-company/section-26.-availability-of-name.md)  
+          statements are required to be prepared for or lodged with the authorities referred to in section 26D  
           of the Financial Reporting Act 1997, such financial statements shall be made in accordance with the  
           applicable approved accounting standards subject to any specifications, guidelines or regulations as  
           may be issued by such authorities;

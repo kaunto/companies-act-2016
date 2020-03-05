@@ -1,6 +1,6 @@
 # Section 4. Definition of "subsidiary and holding company"
 
-**\(1\)** Subject to subsection \(3\), a corporation shall be deemed to be a subsidiary of another corporation, but only if— 
+**\(1\)** Subject to _subsection \(3\)_, a corporation shall be deemed to be a subsidiary of another corporation, but only if— 
 
      \(a\) the other corporation—
 
@@ -11,7 +11,7 @@
 
      \(b\) the corporation is a subsidiary of any corporation which is that other corporation’s subsidiary.
 
-**\(2\)** For the purposes of subparagraph \(1\)\(_a_\)\(i\), the composition of a corporation’s board of directors shall be deemed to be controlled by another corporation if that other corporation can appoint or remove all or a majority of the directors and for the purposes of this provision, the holding company shall be deemed to have the power to make such an appointment if—
+**\(2\)** For the purposes of _subparagraph \(1\)\(a\)\(i\)_, the composition of a corporation’s board of directors shall be deemed to be controlled by another corporation if that other corporation can appoint or remove all or a majority of the directors and for the purposes of this provision, the holding company shall be deemed to have the power to make such an appointment if—
 
      \(a\)  a person cannot be appointed as a director without the exercise of such a power in his favour by   
      that other corporation; or
@@ -24,7 +24,7 @@
      \(a\)  any shares held or power exercisable by that other corporation in a fiduciary capacity shall be   
      treated as not held or exercisable by it;
 
-     \(b\)  subject to paragraphs \(c\) and \(d\), any shares held or power exercisable—  
+     \(b\)  subject to _paragraphs \(c\)_ and _\(d\)_, any shares held or power exercisable—  
             
           \(i\)  by any person as a nominee for that other corporation, except where that other corporation is   
           concerned only in a fiduciary capacity; or
@@ -37,10 +37,10 @@
      the corporation or of a trust deed for securing any issue of such debentures shall be disregarded; and
 
      \(d\) any shares held or power exercisable by, or by a nominee for, that other corporation or its subsidiary,   
-     not being held or exercisable as mentioned in paragraph \(c\), shall be treated as not held or exercisable   
-     by that other corporation if the ordinary business of that other corporation or its subsidiary, as the case   
-     may be, includes the lending of money and the shares are held or power is exercisable as aforesaid by   
-     way of security only for the purposes of a transaction entered into in the ordinary course of that   
+     not being held or exercisable as mentioned in _paragraph \(c\)_, shall be treated as not held or exercisable  
+     by that other corporation if the ordinary business of that other corporation or its subsidiary, as the case  
+     may be, includes the lending of money and the shares are held or power is exercisable as aforesaid by  
+     way of security only for the purposes of a transaction entered into in the ordinary course of that  
      business.
 
 **\(4\)** A reference in this Act to the holding company of a company or other corporation shall be read as a reference to a corporation of which that company or corporation is a subsidiary.

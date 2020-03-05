@@ -1,10 +1,10 @@
 # Section 8. Interests in shares
 
-**\(1\)** This section shall have effect for the purposes of [sections 56](../part-2-formation-and-administration-of-companies/division-8-registered-office-and-registers/section-56.-power-of-company-to-require-disclosure-of-beneficial-interest-in-its-voting-shares.md), [59](../part-2-formation-and-administration-of-companies/division-8-registered-office-and-registers/section-59.-register-of-directors-shareholdings-etc..md), [Subdivision 7 of Division 1 of Part III](../part-3-management-of-company/division-1-share-and-capital-maintenance/subdivision-7-substantial-shareholdings/) and [section 219](../part-3-management-of-company/division-2-members-directors-and-officers-of-companies/subdivision-3-directors-duties-and-responsibilities/section-219.-general-duty-to-make-disclosure.md) respectively.
+\(1\) This section shall have effect for the purposes of [sections 56](../part-2-formation-and-administration-of-companies/division-8-registered-office-and-registers/section-56.-power-of-company-to-require-disclosure-of-beneficial-interest-in-its-voting-shares.md), [59](../part-2-formation-and-administration-of-companies/division-8-registered-office-and-registers/section-59.-register-of-directors-shareholdings-etc..md), [Subdivision 7 of Division 1 of Part III](../part-3-management-of-company/division-1-share-and-capital-maintenance/subdivision-7-substantial-shareholdings/) and [section 219](../part-3-management-of-company/division-2-members-directors-and-officers-of-companies/subdivision-3-directors-duties-and-responsibilities/section-219.-general-duty-to-make-disclosure.md) respectively.
 
-**\(2\)** Where any property held in trust consists of or includes shares in which a person knows or has reasonable grounds for believing that he has an interest in the shares, he shall be deemed to have such interest.
+\(2\) Where any property held in trust consists of or includes shares in which a person knows or has reasonable grounds for believing that he has an interest in the shares, he shall be deemed to have such interest.
 
-**\(3\)** A right does not constitute an interest in a share where—
+\(3\) A right does not constitute an interest in a share where—
 
      \(a\)  the right is being issued or offered to the public for subscription or purchase of interest under the   
      Interest Schemes Act 2016;
@@ -18,7 +18,7 @@
      \(d\)  such right is a right which has been prescribed, after consultation with the Minister charged with   
      the responsibility for finance, as not being an interest in a share.
 
-**\(4\)** A person shall be deemed to have an interest in a share where a body corporate has an interest in a share and—
+\(4\) A person shall be deemed to have an interest in a share where a body corporate has an interest in a share and—
 
      \(a\)  the body corporate is, or its directors are accustomed, or is under an obligation, whether formal or   
      informal, to act in accordance with the directions, instructions or wishes of that person in relation to   
@@ -30,13 +30,13 @@
      the exercise of not less than twenty per centum of the votes attached to the voting shares in the body   
      corporate.
 
-**\(5\)** For the purposes of paragraph \(4\)\(c\), a person is an associate of another person if the person is—
+\(5\) For the purposes of _paragraph \(4\)\(c\)_, a person is an associate of another person if the person is—
 
      \(a\)  a corporation which is a related corporation;  
   
      \(b\)  a person in accordance with whose directions, instructions or wishes that other person is   
      accustomed, or is under an obligation, whether formal or informal, to act in relation to the share   
-     referred to in subsection \(4\);
+     referred to in _subsection \(4\)_;
 
      \(c\)  a person who is accustomed, or is under an obligation, whether formal or informal, to act in   
      accordance with the directions, instructions or wishes of that other person in relation to that share;
@@ -49,7 +49,7 @@
      directors of which, that other person is accustomed or under an obligation whether formal or informal,   
      to act in relation to that share.
 
-**\(6\)** A person shall be deemed to have an interest in a share in any one or more of the following circumstances where he—
+\(6\) A person shall be deemed to have an interest in a share in any one or more of the following circumstances where he—
 
      \(a\)  has entered into a contract to purchase a share;
 
@@ -64,11 +64,11 @@
      at a meeting of members of a corporation or of a class of its members, to exercise or control the   
      exercise of a right attached to a share, not being a share of which he is the registered holder.
 
-**\(7\)** A person shall be deemed to have an interest in a share if that share is held jointly with another person.
+\(7\) A person shall be deemed to have an interest in a share if that share is held jointly with another person.
 
-**\(8\)** For the purpose of determining whether a person has an interest in a share, it is immaterial that the interest cannot be related to a particular share.
+\(8\) For the purpose of determining whether a person has an interest in a share, it is immaterial that the interest cannot be related to a particular share.
 
-**\(9\)** For the purposes of this section, an interest in a share shall be disregarded as an interest if it is—
+\(9\) For the purposes of this section, an interest in a share shall be disregarded as an interest if it is—
 
      \(a\)  an interest of a person who holds the share as bare trustee;
 
@@ -82,7 +82,7 @@
      \(d\) a prescribed interest being an interest of such person, or of the persons included in such class of   
      persons, as is prescribed.
 
-**\(10\)** An interest in a share shall not be disregarded by reason only of—
+\(10\) An interest in a share shall not be disregarded by reason only of—
 
      \(a\)  its remoteness;
 
