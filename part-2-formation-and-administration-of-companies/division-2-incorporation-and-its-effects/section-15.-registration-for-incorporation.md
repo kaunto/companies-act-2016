@@ -1,6 +1,6 @@
 # Section 15. Registration for incorporation
 
-f the Registrar is satisfied that the requirements of this Act as to the application for incorporation are complied with and upon payment of the prescribed fee, the Registrar shall—
+If the Registrar is satisfied that the requirements of this Act as to the application for incorporation are complied with and upon payment of the prescribed fee, the Registrar shall—
 
      \(a\)  enter the particulars of the company in the register;
 
