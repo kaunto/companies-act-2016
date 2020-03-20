@@ -104,10 +104,7 @@ and if so, the report shall contain a statement explaining the effect of the arr
      if so, giving particulars of that item, transaction or event and the amount or the effect of the item,    
      transaction or event, if known or reasonably ascertainable; and
 
-     \(o\)  whethertherehasarisenintheintervalbetweentheendofthefinancial year and the date of the report   
-     any item, transaction or event of a material and unusual nature likely, in the opinion of the directors, to   
-     affect substantially the results of the company’s operations for the financial year in which the report is    
-     made and, if so, giving particulars of the item, transaction or event; and
+     \(o\)  whether there has arisen in the interval between the end of the financial year and the date of the    report any item, transaction or event of a material and unusual nature likely, in the opinion of the directors, to affect substantially the results of the company’s operations for the financial year in which the report is made and, if so, giving particulars of the item, transaction or event; and
 
      \(p\)  any other details as determined by the Registrar.
 
@@ -122,7 +119,7 @@ and if so, the report shall contain a statement explaining the effect of the arr
      subsidiary of the company:      
                    
 
-               Provided that where a director or any firm of which the director is a member, acts for the    
+           Provided that where a director or any firm of which the director is a member, acts for the    
           company in a professional capacity, the amount paid to the director or to his firm for services     
           rendered to the company in that capacity shall not be included in all fees, percentages, bonuses,   
           commissions, compensation for loss of office, any contribution in respect of them under any   
