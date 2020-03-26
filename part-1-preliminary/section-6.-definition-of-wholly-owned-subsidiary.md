@@ -2,6 +2,6 @@
 
 A corporation is a “wholly-owned subsidiary” of another corporation if it has no members except—
 
-      \(a\)  that other corporation or its nominee; or  
-      \(b\)  a wholly-owned subsidiary of that other corporation or its nominee.
+  * that other corporation or its nominee; or  
+  * a wholly-owned subsidiary of that other corporation or its nominee.
 
