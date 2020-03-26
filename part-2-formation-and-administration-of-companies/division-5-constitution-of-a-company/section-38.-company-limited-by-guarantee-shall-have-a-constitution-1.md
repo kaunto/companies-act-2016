@@ -6,12 +6,12 @@
 
 3. The constitution shall state— 
 
-..(a) that the company is a company limited by guarantee; 
-..(b) the objects of the company; 
-..(c) the capacity, rights, powers and privileges of the company; 
-..(d) the number of members with which the company proposed to be incorporated; 
-..(e) matters contemplated by this Act to be included in the constitution; and 
-..(f) any other matters as the company wishes to include in its constitution. 
+  * that the company is a company limited by guarantee; 
+  * the objects of the company; 
+  * the capacity, rights, powers and privileges of the company; 
+  * the number of members with which the company proposed to be incorporated; 
+  * matters contemplated by this Act to be included in the constitution; and 
+  * any other matters as the company wishes to include in its constitution. 
 
 4. Any provision in the constitution of a company limited by guarantee that purports to divide the company’s undertaking into shares or interests is a provision for a share capital and shall be void. 
 
