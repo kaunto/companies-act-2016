@@ -1,6 +1,6 @@
 # Section 2. Interpretation
 
-\(1\) In this Act, unless the context otherwise requires—
+1. In this Act, unless the context otherwise requires—
 
 **“accounting records”**, in relation to a corporation, includes invoices, receipts, orders for payment of money, bills of exchange, cheques, promissory notes, vouchers and other documents of prime entry and also includes such working papers and other documents as are necessary to explain the methods and calculations by which accounts are prepared;
 
@@ -18,21 +18,19 @@
 
 **“Board”**, in relation to a company, means—
 
-     \(a\) directors of the company who number not less than the required quorum acting as a board of   
-     directors; or
+  * directors of the company who number not less than the required quorum acting as a board of directors; or
 
-     \(b\) if the company has only one director, that director;
+  * if the company has only one director, that director;
 
 **“books”** includes any register or other record of information and any accounts or accounting records, however compiled, recorded or stored, and also includes any document;
 
 **“borrowing corporation”** means a corporation that is or will be under a liability, whether or not such liability is present or future, to repay any money received or to be received by it in response to an invitation to the public to subscribe for or purchase debentures of the corporation in accordance with the provisions of [Subdivision 10 of Division 1 of Part III](../part-3-management-of-company/division-1-share-and-capital-maintenance/subdivision-10-debentures/);
 
 **“branch register”** means—  
-     \(a\) in relation to a company—  
-          \(i\) a branch register of members of the company kept under [section 53](../part-2-formation-and-administration-of-companies/division-8-registered-office-and-registers/section-53.-branch-register-of-members.md); or   
-          \(ii\) a branch register of debenture holders kept under [section 60](../part-2-formation-and-administration-of-companies/division-8-registered-office-and-registers/section-60.-register-of-debenture-holders-and-copies-of-trust-deed.md),  as the case may require; and  
-     \(b\) in relation to a foreign company, a branch register of members of the company kept under [section   
-     568](../part-5-miscellaneous/division-1-foreign-companies/section-568.-the-branch-register.md);
+  * in relation to a company—
+    * a branch register of members of the company kept under [section 53](../part-2-formation-and-administration-of-companies/division-8-registered-office-and-registers/section-53.-branch-register-of-members.md); or
+    * a branch register of debenture holders kept under [section 60](../part-2-formation-and-administration-of-companies/division-8-registered-office-and-registers/section-60.-register-of-debenture-holders-and-copies-of-trust-deed.md), as the case may require; and
+  * in relation to a foreign company, a branch register of members of the company kept under [section 568](../part-5-miscellaneous/division-1-foreign-companies/section-568.-the-branch-register.md);
 
 **“Central Bank of Malaysia”** means the Bank as defined in [section 3](section-3-definition-of-corporation.md) of the Central Bank of Malaysia Act 2009 \[Act 701\];
 
@@ -40,7 +38,7 @@
 
 **“charge”** includes a mortgage and any agreement to give or execute a charge or mortgage whether upon demand or otherwise;
 
-**“Commission”** means the Companies Commission of Malaysia established under the Companies Commission of Malaysia Act 2001 \[Act 614\];
+**“Commission”** means the Companies Commission of Malaysia established under the Companies Commission of Malaysia Act 2001 [Act 614];
 
 **“company”** means a company incorporated under this Act or under any corresponding previous written law;
 
@@ -101,12 +99,9 @@
 **“manager”**, in relation to a company, means the principal executive officer of the company for the time being by whatever name called and whether or not he is a director;
 
 **“member”** means—
+  * in the case of a company limited by shares, a person whose name is entered in the register of members as the holder for the time being of one or more shares in the company; or
 
-     \(a\)  in the case of a company limited by shares, a person whose name is entered in the register of   
-     members as the holder for the time being of one or more shares in the company; or
-
-     \(b\)  in the case of a company limited by guarantee, a person whose name is entered in the register of   
-     members;
+  * in the case of a company limited by guarantee, a person whose name is entered in the register of members;
 
 **“members’ voluntary winding up”** means a winding up under [Subdivision 4 of Division 1 of Part IV](../part-4-cessation-of-companies/division-1-voluntary-and-compulsory-winding-up/subdivision-4-members-voluntary-winding-up/), where a declaration has been made and lodged under [section 443](../part-4-cessation-of-companies/division-1-voluntary-and-compulsory-winding-up/subdivision-3-voluntary-winding-up/section-443.-declaration-of-solvency.md);
 
