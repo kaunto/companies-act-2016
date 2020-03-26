@@ -2,11 +2,13 @@
 
 \(1\) Where an unregistered company, of which the place of incorporation or origin of which is in a designated country, has been dissolved and there remains in Malaysia any outstanding property, movable or immovable, including things in action which at the time it was dissolved—
 
-     \(a\) was vested in the company; 
+```text
+ \(a\) was vested in the company; 
 
-     \(b\) the company was entitled to it; or 
+ \(b\) the company was entitled to it; or 
 
-     \(c\) the company had a disposing power,
+ \(c\) the company had a disposing power,
+```
 
 but which was not acquired, realized upon or otherwise disposed of or dealt with by the company or its liquidator before the dissolution, the property, except called and uncalled capital, shall be and become vested in such person as is entitled according to
 
