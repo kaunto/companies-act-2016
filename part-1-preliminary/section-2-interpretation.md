@@ -106,15 +106,9 @@
 **“members’ voluntary winding up”** means a winding up under [Subdivision 4 of Division 1 of Part IV](../part-4-cessation-of-companies/division-1-voluntary-and-compulsory-winding-up/subdivision-4-members-voluntary-winding-up/), where a declaration has been made and lodged under [section 443](../part-4-cessation-of-companies/division-1-voluntary-and-compulsory-winding-up/subdivision-3-voluntary-winding-up/section-443.-declaration-of-solvency.md);
 
 **“minimum subscription”**—
+  * in relation to any shares of an unlisted recreational club which are offered to the public for subscription, means the amount stated in the prospectus relating to the offer as stated in the [First Schedule](../part-5-miscellaneous/division-4-saving-and-transitional/section-620.-repeal-and-savings/first-schedule.md);
 
-     \(a\)  in relation to any shares of an unlisted recreational club which are offered to the public for   
-     subscription, means the amount stated in the prospectus relating to the offer as stated in the [First   
-     Schedule](../part-5-miscellaneous/division-4-saving-and-transitional/section-620.-repeal-and-savings/first-schedule.md);
-
-     \(b\)  in relation to any issue of, offer for subscription or purchase of, or invitation to subscribe for or   
-     purchase, shares made under the Capital Markets and Services Act 2007 \[Act 671\], means the amount   
-     stated in the prospectus relating to the issue, offer or invitation in accordance with the requirements of   
-     the Securities Commission relating to contents of prospectuses,
+  * in relation to any issue of, offer for subscription or purchase of, or invitation to subscribe for or purchase, shares made under the Capital Markets and Services Act 2007 \[Act 671\], means the amount stated in the prospectus relating to the issue, offer or invitation in accordance with the requirements of the Securities Commission relating to contents of prospectuses,
 
 as the minimum amount which in the opinion of the directors must be raised by the issue of the shares so offered;
 
@@ -123,17 +117,15 @@ as the minimum amount which in the opinion of the directors must be raised by th
 **“office copy”**, in relation to any Court order or other Court document, means a copy authenticated under the hand or seal of the Registrar of the Court or other proper officer of the Court;
 
 **“officer”**, in relation to a corporation, includes—
+  * any director, secretary or employee of the corporation;  
+  * a receiver and manager of any part of the undertaking of the corporation appointed under a power contained in any instrument; and  
+  * any liquidator of a company appointed in a voluntary winding up,
 
-     \(a\)  any director, secretary or employee of the corporation;  
-     \(b\)  a receiver and manager of any part of the undertaking of the corporation appointed under a power        
-     contained in any instrument; and  
-     \(c\)  any liquidator of a company appointed in a voluntary winding up,
+  but does not include—
 
-but does not include—
-
-     \(i\)  any receiver who is not also a manager;  
-     \(ii\)  any receiver and manager appointed by the Court; or  
-     \(iii\)  any liquidator appointed by the Court or by the creditors;
+    * any receiver who is not also a manager;  
+    * any receiver and manager appointed by the Court; or  
+    * any liquidator appointed by the Court or by the creditors;
 
 **“Official Receiver”** means the Director General of Insolvency, Deputy Director General of Insolvency, Directors of Insolvency, Deputy Directors of Insolvency, Senior Assistant Directors of Insolvency, Assistant Directors of Insolvency, Insolvency officers and any other officer appointed under the Bankruptcy Act 1967 \[Act 360\];
 
@@ -146,11 +138,9 @@ but does not include—
 **“printed”** includes typewritten or lithographed or reproduced by any mechanical means;
 
 **“private company”** means—
-
-     \(a\)  any company which immediately prior to the commencement of this Act was a private company        
-            under any corresponding previous written law;  
-     \(b\)  any company incorporated as a private company under this Act; or  
-     \(c\)  any company converted into a private company under [section 41](../part-2-formation-and-administration-of-companies/division-6-conversion-of-company-status/section-41.-conversion-from-public-companies-to-private-companies-or-private-companies-to-public-co.md),
+  * any company which immediately prior to the commencement of this Act was a private company under any corresponding previous written law;  
+  * any company incorporated as a private company under this Act; or  
+  * any company converted into a private company under [section 41](../part-2-formation-and-administration-of-companies/division-6-conversion-of-company-status/section-41.-conversion-from-public-companies-to-private-companies-or-private-companies-to-public-co.md),
 
 being a company which has not ceased to be a private company under [section 42](../part-2-formation-and-administration-of-companies/division-7-provisions-applicable-to-certain-types-of-companies/section-42.-private-companies.md);
 
@@ -195,37 +185,30 @@ being a company which has not ceased to be a private company under [section 42](
 “**unlisted recreational club**” has the meaning assigned to it in the Capital Markets and Services Act 2007;
 
 “**voting share**”, in relation to a body corporate, means an issued share of the body corporate—
+  * to which there is attached a right to vote in all circumstances; or
 
-     \(a\) to which there is attached a right to vote in all circumstances; or
+  * not being a share to which a right to vote is limited only to one or more of the following circumstances:
 
-     \(b\) not being a share to which a right to vote is limited only to one or more of the following circumstances:
+    * during a period in which a dividend, or part of a dividend, in respect of the share is in arrears;  
+    * upon a proposal to reduce the share capital of the body corporate;
+    * upon a proposal affecting the rights attached to the share;
+    * upon a proposal to wind up the body corporate;
+    * upon a proposal for the disposal of the whole of the property, business and undertakings of the body corporate;  
+    * during the winding up of the body corporate.
 
-          \(i\)  during a period in which a dividend, or part of a dividend, in respect of the share is in arrears;  
-          \(ii\)  upon a proposal to reduce the share capital of the body corporate;  
-          \(iii\)  upon a proposal affecting the rights attached to the share;  
-          \(iv\)  upon a proposal to wind up the body corporate;  
-          \(v\)  upon a proposal for the disposal of the whole of the property, business and undertakings of the         
-                 body corporate;  
-          \(vi\)  during the winding up of the body corporate.
+2. A person shall not be regarded as a person in accordance with whose directions or instructions the directors of a company are accustomed to act by reason only that the directors act on advice given by him in a professional capacity.
 
-\(2\) A person shall not be regarded as a person in accordance with whose directions or instructions the directors of a company are accustomed to act by reason only that the directors act on advice given by him in a professional capacity.
+3. A statement included in a prospectus or statement in lieu of prospectus shall be deemed to be untrue if it is misleading in the form and context in which it is included.
 
-\(3\) A statement included in a prospectus or statement in lieu of prospectus shall be deemed to be untrue if it is misleading in the form and context in which it is included.
+4. A statement shall be deemed to be included in a prospectus or statement in lieu of prospectus if it is contained in any report or memorandum appearing on the face of or by reference incorporated in or issued with the prospectus or statement in lieu of prospectus.
 
-\(4\) A statement shall be deemed to be included in a prospectus or statement in lieu of prospectus if it is contained in any report or memorandum appearing on the face of or by reference incorporated in or issued with the prospectus or statement in lieu of prospectus.
+5. Any invitation to the public to deposit money with or to lend money to a corporation shall be deemed to be an invitation to subscribe for or purchase debentures of the corporation and any document that is issued or intended or required to be issued by a corporation acknowledging or evidencing or constituting an acknowledgment of the indebtedness of the corporation in respect of any money that is or may be deposited with or lent to the corporation in response to such an invitation shall be deemed to be a debenture, but an invitation to the public by a prescribed corporation as defined in [subsection 158\(8\)](../part-3-management-of-company/division-1-share-and-capital-maintenance/subdivision-9-prospectus/section-158.-invitations-to-the-public-to-lend-money-to-or-to-deposit-money-with-a-corporation.md) shall not be deemed to be an invitation to the public to deposit money with or to lend money to the corporation for the purpose of the Interest Schemes Act 2016 \[Act 778\];
 
-\(5\) Any invitation to the public to deposit money with or to lend money to a corporation shall be deemed to be an invitation to subscribe for or purchase debentures of the corporation and any document that is issued or intended or required to be issued by a corporation acknowledging or evidencing or constituting an acknowledgment of the indebtedness of the corporation in respect of any money that is or may be deposited with or lent to the corporation in response to such an invitation shall be deemed to be a debenture, but an invitation to the public by a prescribed corporation as defined in [subsection 158\(8\)](../part-3-management-of-company/division-1-share-and-capital-maintenance/subdivision-9-prospectus/section-158.-invitations-to-the-public-to-lend-money-to-or-to-deposit-money-with-a-corporation.md) shall not be deemed to be an invitation to the public to deposit money with or to lend money to the corporation for the purpose of the Interest Schemes Act 2016 \[Act 778\];
+6. Any reference in this Act to offering shares or debentures to the public shall, unless the context otherwise requires, be construed as including a reference to offering shares or debentures to any section of the public, whether selected as clients of the person issuing the prospectus or in any other manner; but a bona fide offer or invitation with respect to shares or debentures shall not be deemed to be an offer to the public if it is—
+  * an offer or invitation to enter into an underwriting agreement;  
+  * made to a person whose ordinary business is to buy or sell shares or debentures whether as principal or agent;  
+  * made to existing members or debenture holders of a corporation and relates to shares in or debentures of that corporation and is not an offer to which [section 233](../part-3-management-of-company/division-2-members-directors-and-officers-of-companies/subdivision-3-directors-duties-and-responsibilities/section-233.-right-of-member-to-inspect-and-request-copy.md) of the Capital Markets and Services Act 2007 applies; or  
+  * made to existing members of a company within the meaning of [section 457](../part-4-cessation-of-companies/division-1-voluntary-and-compulsory-winding-up/subdivision-6-provisions-applicable-to-every-voluntary-winding-up/section-457.-power-of-liquidator-to-accept-shares-etc.-as-consideration-for-sale-of-property-of-c.md) and relates to shares in the corporation within the meaning of that section.
 
-\(6\) Any reference in this Act to offering shares or debentures to the public shall, unless the context otherwise requires, be construed as including a reference to offering shares or debentures to any section of the public, whether selected as clients of the person issuing the prospectus or in any other manner; but a bona fide offer or invitation with respect to shares or debentures shall not be deemed to be an offer to the public if it is—
-
-     \(a\)  an offer or invitation to enter into an underwriting agreement;  
-     \(b\)  made to a person whose ordinary business is to buy or sell shares or debentures whether as   
-     principal or agent;  
-     \(c\)  made to existing members or debenture holders of a corporation and relates to shares in or   
-     debentures of that corporation and is not an offer to which [section 233](../part-3-management-of-company/division-2-members-directors-and-officers-of-companies/subdivision-3-directors-duties-and-responsibilities/section-233.-right-of-member-to-inspect-and-request-copy.md) of the Capital Markets and   
-     Services Act 2007 applies; or  
-     \(d\)  made to existing members of a company within the meaning of [section 457](../part-4-cessation-of-companies/division-1-voluntary-and-compulsory-winding-up/subdivision-6-provisions-applicable-to-every-voluntary-winding-up/section-457.-power-of-liquidator-to-accept-shares-etc.-as-consideration-for-sale-of-property-of-c.md) and relates to shares   
-     in the corporation within the meaning of that section.
-
-\(7\) Unless the context otherwise requires, any reference in this Act to a person being or becoming bankrupt or to a person assigning his estate for the benefit of his creditors or making an arrangement with his creditors under any written law relating to bankruptcy or to a person being an undischarged bankrupt or to any status, condition, act, matter or thing under or in relation to the law of bankruptcy shall be construed as including a reference to a person being or becoming bankrupt or insolvent or to a person making any such assignment or arrangement or to a person being an undischarged bankrupt or insolvent or to the corresponding status, condition, act, matter or thing, as the case requires, under any written law relating to bankruptcy or insolvency.
+7. Unless the context otherwise requires, any reference in this Act to a person being or becoming bankrupt or to a person assigning his estate for the benefit of his creditors or making an arrangement with his creditors under any written law relating to bankruptcy or to a person being an undischarged bankrupt or to any status, condition, act, matter or thing under or in relation to the law of bankruptcy shall be construed as including a reference to a person being or becoming bankrupt or insolvent or to a person making any such assignment or arrangement or to a person being an undischarged bankrupt or insolvent or to the corresponding status, condition, act, matter or thing, as the case requires, under any written law relating to bankruptcy or insolvency.
 
