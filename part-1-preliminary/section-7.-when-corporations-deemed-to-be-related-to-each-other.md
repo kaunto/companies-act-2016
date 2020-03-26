@@ -2,7 +2,7 @@
 
 A corporation is deemed to be related to each other if—
 
-     \(a\)  it is the holding company of another corporation;  
-     \(b\)  it is a subsidiary of another corporation; or  
-     \(c\)  it is a subsidiary of the holding company of another corporation.
+  * it is the holding company of another corporation;  
+  * it is a subsidiary of another corporation; or  
+  * it is a subsidiary of the holding company of another corporation.
 
