@@ -1,15 +1,14 @@
 # Section 4. Definition of "subsidiary and holding company"
 
-**\(1\)** Subject to _subsection \(3\)_, a corporation shall be deemed to be a subsidiary of another corporation, but only if— 
+1. Subject to _subsection (3), a corporation shall be deemed to be a subsidiary of another corporation, but only if— 
 
-     \(a\) the other corporation—
+  * the other corporation—
 
-          \(i\) controls the composition of the board of directors of the corporation;  
-          \(ii\) controls more than half of the voting power of the corporation; or  
-          \(iii\) holds more than half of the issued share capital of the corporation, excluding any part of the   
-          share capital which consists of preference shares; or
+    * controls the composition of the board of directors of the corporation;  
+    * controls more than half of the voting power of the corporation; or  
+    * holds more than half of the issued share capital of the corporation, excluding any part of the share capital which consists of preference shares; or
 
-     \(b\) the corporation is a subsidiary of any corporation which is that other corporation’s subsidiary.
+  * the corporation is a subsidiary of any corporation which is that other corporation’s subsidiary.
 
 **\(2\)** For the purposes of _subparagraph \(1\)\(a\)\(i\)_, the composition of a corporation’s board of directors shall be deemed to be controlled by another corporation if that other corporation can appoint or remove all or a majority of the directors and for the purposes of this provision, the holding company shall be deemed to have the power to make such an appointment if—
 
