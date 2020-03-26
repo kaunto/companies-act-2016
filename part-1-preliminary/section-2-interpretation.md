@@ -76,11 +76,8 @@
 
 **“foreign company”** means—
 
-     \(a\)  a company ,corporation, society, association or other body incorporated outside Malaysia; or  
-     \(b\)  an unincorporated society, association or other body which under the law of its place of origin may   
-     sue or be sued, or hold property in the name of the secretary or other officer of the body or association   
-     duly appointed for that purpose and which does not have its head office or principal place of business   
-     in Malaysia;
+  * a company ,corporation, society, association or other body incorporated outside Malaysia; or  
+  * an unincorporated society, association or other body which under the law of its place of origin may sue or be sued, or hold property in the name of the secretary or other officer of the body or association duly appointed for that purpose and which does not have its head office or principal place of business in Malaysia;
 
 **“guarantor corporation”**, in relation to a borrowing corporation, means a corporation that has guaranteed or has agreed to guarantee the repayment of any money received or to be received by the borrowing corporation in response to an invitation to the public to subscribe for or purchase debentures of the borrowing corporation;
 
